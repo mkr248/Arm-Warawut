@@ -1,2 +1,2 @@
-# JT89-Warawut
+# Tae-Warawut
 งาน Human Factors in Information System
